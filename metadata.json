@@ -1,0 +1,6 @@
+{
+  "name": "HLS & fMP4 Code Audit Suite",
+  "description": "Comprehensive ISO/IEC 14496-12 and RFC 8216 code auditor, ISO-BMFF box inspector, HLS manifest parser, and fMP4 multiplexer verification workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
